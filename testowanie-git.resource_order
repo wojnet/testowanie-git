@@ -2,5 +2,7 @@
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
     {"name":"sPlayer","order":1,"path":"sprites/sPlayer/sPlayer.yy",},
+    {"name":"sWall","order":2,"path":"sprites/sWall/sWall.yy",},
+    {"name":"oCollision","order":1,"path":"objects/oCollision/oCollision.yy",},
   ],
 }

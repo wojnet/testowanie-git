@@ -37,7 +37,9 @@
   "resources": [
     {"id":{"name":"sSus","path":"sprites/sSus/sSus.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
+    {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
+    {"id":{"name":"oCollision","path":"objects/oCollision/oCollision.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
