@@ -1,4 +1,6 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"sPlayer","order":1,"path":"sprites/sPlayer/sPlayer.yy",},
+  ],
 }
